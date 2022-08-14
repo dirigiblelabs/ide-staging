@@ -360,7 +360,6 @@ stagingView.controller('StagingViewController', [
                 $scope.commitData.password,
                 $scope.commitData.email,
             ).then(function (response) {
-                console.log(response);
                 if (response.status !== 200) {
                     messageHub.showAlertError('Could not commit changes', response.message);
                 } else if (push) {
