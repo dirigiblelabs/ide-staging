@@ -1,7 +1,7 @@
 # Staging View for Eclipse Dirigible
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/ide-workspace.svg)](https://github.com/dirigiblelabs/ide-workspace/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/ide-staging.svg)](https://github.com/dirigiblelabs/ide-staging/graphs/contributors)
 
 ## License
 
